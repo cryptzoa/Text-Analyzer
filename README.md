@@ -1,4 +1,4 @@
-# 🧠 Text Analyzer — Program 1
+# 🧠 Text Analyzer 
 
 Program ini digunakan untuk menganalisis teks dari file `.txt` dan menampilkan berbagai informasi seperti jumlah kata, kalimat, paragraf, karakter, rata-rata panjang kata, serta 10 kata yang paling sering muncul.  
 Selain itu, program ini juga menampilkan **visualisasi data** dalam bentuk grafik batang menggunakan library `matplotlib`.
