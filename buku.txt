@@ -1,0 +1,15 @@
+Buku ini membahas tentang struktur dan fungsi komputer. Setelah mempelajari buku ini 
+diharapkan dapat memahami sifat dan karakteristik sistem-sistem komputer yang berkembang 
+saat ini. Tantangan yang dihadapi adalah adanya bermacam-macam komputer dan perkembangan 
+yang pesat dibidang komputer, namun demikian konsep dasar organisasi komputer telah 
+digunakan secara konsisten secara menyeluruh. Buku ini bermaksud untuk memberikan bahasan 
+lengkap dan mudah tentang dasar-dasar organisasi komputer. 
+1.1. Komputer 
+Komputer adalah sebuah mesin hitung elektronik yang secara cepat menerima informasi 
+masukan digital dan mengolah informasi tersebut menurut seperangkat instruksi yang tersimpan 
+dalam komputer tersebut dan menghasilkan keluaran informasi yang dihasilkan setelah diolah.  
+Daftar perintah tersebut dinamakan program komputer dan unit penyimpanannya adalah memori 
+komputer. 
+Dalam bentuk yang paling sederhana komputer terdiri dari lima bagian utama yang 
+mempunyai fungsi sendiri-sendiri. Unit-unit tersebut adalah: masukan, memori, aritmetika dan 
+logika, keluaran dan kontrol seperti pada gambar 1.1

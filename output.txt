@@ -1,0 +1,17 @@
+Total words: 146
+Total sentences: 11
+Total paragraphs: 15
+Total characters: 1119
+Average word length: 6.48
+
+Top 10 words:
+komputer: 12
+dan: 9
+yang: 8
+ini: 4
+adalah: 4
+1: 4
+tersebut: 4
+buku: 3
+dasar: 3
+secara: 3
